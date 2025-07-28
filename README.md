@@ -11,4 +11,4 @@
 - If the total number of elements is odd, return the middle element.
 - If even, return the average of the two middle elements.
 
-This is a straightforward brute-force approach
+This is a straightforward brute-force approach.
