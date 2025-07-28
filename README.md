@@ -2,8 +2,8 @@
 
 **Problem link:** [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)  
 **Difficulty:** Hard  
-**Runtime:** 76 ms  
-**Memory Usage:** 14.3 MB  
+**Runtime:** 2 ms  
+**Memory Usage:** 18 MB  
 
 ### 🧠 Approach
 - Combine the two input arrays using `+`.
